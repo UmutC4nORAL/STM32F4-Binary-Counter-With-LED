@@ -1,0 +1,1 @@
+This project is about binary counter. Pin 15 of D port for 3. bit, pin 14 for 2. bit, pin 13 for 1. bit and pin 12 for 0. bit. When you click the counter increase by one. And LEDs show you the number.
